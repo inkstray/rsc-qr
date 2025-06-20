@@ -17,10 +17,10 @@ import (
 	"sort"
 	"time"
 
-	"rsc.io/qr"
-	"rsc.io/qr/coding"
-	"rsc.io/qr/gf256"
-	"rsc.io/qr/qart/internal/resize"
+	"github.com/inkstray/rsc-qr"
+	"github.com/inkstray/rsc-qr/coding"
+	"github.com/inkstray/rsc-qr/gf256"
+	"github.com/inkstray/rsc-qr/qart/internal/resize"
 )
 
 type Image struct {
