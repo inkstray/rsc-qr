@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"golang.org/x/text/encoding/japanese"
-	"rsc.io/qr/gf256"
+	"github.com/inkstray/rsc-qr/gf256"
 )
 
 // Field is the field for QR error correction.
