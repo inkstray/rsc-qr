@@ -1,4 +1,4 @@
-module rsc.io/qr
+module github.com/inkstray/rsc-qr
 
 go 1.18
 
